@@ -6,7 +6,7 @@
 #define SENSOR_NAME "Sensor_01"
 
 // Direcciones MAC
-uint8_t receptorAddress[] = {0x00, 0x4B, 0x12, 0x33, 0x9D, 0xB4};  // Receptor final
+uint8_t receptorAddress[] = {0x68, 0x25, 0xDD, 0x47, 0xE5, 0xF8};  // Receptor final
 uint8_t emisorB_Address[] = {0xE4, 0xB0, 0x63, 0x41, 0xEA, 0x4C};  // Emisor B
 
 // 🔹 MISMOS pines y configuración
